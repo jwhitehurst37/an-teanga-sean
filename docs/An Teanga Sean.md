@@ -1,37 +1,37 @@
 # An Teanga Sean: The Celtic Languages
 
-![A flag representing the Celtic nations' six different flags](https://www.dropbox.com/pri/get/Dillinger/_images/hqdefault.jpg?_subject_uid=283917548&w=AAAD0DhoRodkZR7QJP8QRcQVvRT073HU6lJE_RY7qiRt_g)
+![A flag representing the Celtic nations' six different flags](docs\imgs\included\celtic_flag.jpg)
 
-In the study of European history, there are central and peripheral societies; the central societies lay claim to the Inheritance of Rome, or a progression of the flame of civilization from Cicero to the present day. The Celtic languages – Irish, Cornish, Welsh, Scots-Gaelic, Manx, and Breton – are languages of peripheral societies. These are not continental powerhouses like France or Germany, but small tribes of people on the British Isles. At least, that is the narrative told by the central societies, like the United Kingdom and France. Their legacy is one of oppression; whether it was Romans in antiquity, Vikings in the medieval period, or Norman Englishmen, the peoples of the Celtic languages have been oppressed and assaulted by foes for centuries. 
+In the study of European history, there are central and peripheral societies; the central societies lay claim to the Inheritance of Rome, or a progression of the flame of civilization from Cicero to the present day. The Celtic languages – Irish, Cornish, Welsh, Scots-Gaelic, Manx, and Breton – are languages of peripheral societies. These are not continental powerhouses like France or Germany, but small tribes of people on the British Isles. At least, that is the narrative told by the central societies, like the United Kingdom and France. Their legacy is one of oppression; whether it was Romans in antiquity, Vikings in the medieval period, or Norman Englishmen, the peoples of the Celtic languages have been oppressed and assaulted by foes for centuries.
 
-The Irish, with their monastic ecclesiastical orders and scriptoria brimming with the wisdom of the ancients, speak Gaelic, or Irish, as it is often called. This language has seen the hand of the English in action; the invading English tried to outlaw it, and when Ireland rose in resistance during the 19th and 20th centuries, Gaelic-speaking nationalists led the fight. 
+The Irish, with their monastic ecclesiastical orders and scriptoria brimming with the wisdom of the ancients, speak Gaelic, or Irish, as it is often called. This language has seen the hand of the English in action; the invading English tried to outlaw it, and when Ireland rose in resistance during the 19th and 20th centuries, Gaelic-speaking nationalists led the fight.
 
-Cornish, spoken mostly in academic interest in 21st century Cornwall in the south of England, died out in the 18th century, though there was a revival effort in the late 20th century. 
+Cornish, spoken mostly in academic interest in 21st century Cornwall in the south of England, died out in the 18th century, though there was a revival effort in the late 20th century.
 
-Welsh holds its standing in Wales as a governmentally recognized national language; Welsh citizens have the right to treat with the United Kingdom in Welsh. 
+Welsh holds its standing in Wales as a governmentally recognized national language; Welsh citizens have the right to treat with the United Kingdom in Welsh.
 
-Scots-Gaelic, the language of the Celtic peoples in mostly Highland Scotland, bears subtle reminders of the common kinship of the Irish and the Scottish. 
+Scots-Gaelic, the language of the Celtic peoples in mostly Highland Scotland, bears subtle reminders of the common kinship of the Irish and the Scottish.
 
-Manx has little more than a well-attended fan club in the Isle of Man, one of the many small islands between Ireland and Britain. 
+Manx has little more than a well-attended fan club in the Isle of Man, one of the many small islands between Ireland and Britain.
 
-Breton died out in Brittany, France, though revival efforts are underway and children are increasingly attending bilingual schools where some instruction is in Breton. 
+Breton died out in Brittany, France, though revival efforts are underway and children are increasingly attending bilingual schools where some instruction is in Breton.
 
 ---
 
 ### Focus of my research
 
-Rather than trying to compare data on all six Celtic languages, I decided to work with the two largest – Irish and Welsh – and one smaller one on which I have created a dataset of my own, Cornish. I was particularly interested in these languages because of the way they have been used to express, “Hey, we aren’t *all* English around here.” 
+Rather than trying to compare data on all six Celtic languages, I decided to work with the two largest – Irish and Welsh – and one smaller one on which I have created a dataset of my own, Cornish. I was particularly interested in these languages because of the way they have been used to express, “Hey, we aren’t *all* English around here.”
 
-The Republic of Ireland has tried to push the Irish language as a key part of a national identity. Road signs have English and Irish on them, and any citizen of the Republic of Ireland has the right to treat with the Irish government in Irish. This movement began with the revolutionary nationalists of the 19th century and was realized by their 20th century descendants. However, even as the population of the Republic of Ireland moves toward pre-Famine level populations – and perhaps even a realization of the Good Friday Agreement’s allowances for reunification with Northern Ireland – the use of Irish is on the decline. I wanted to know a little bit more about that decline. 
+The Republic of Ireland has tried to push the Irish language as a key part of a national identity. Road signs have English and Irish on them, and any citizen of the Republic of Ireland has the right to treat with the Irish government in Irish. This movement began with the revolutionary nationalists of the 19th century and was realized by their 20th century descendants. However, even as the population of the Republic of Ireland moves toward pre-Famine level populations – and perhaps even a realization of the Good Friday Agreement’s allowances for reunification with Northern Ireland – the use of Irish is on the decline. I wanted to know a little bit more about that decline.
 
 Wales, on the other hand, does not have as bloody a recent history as the Republic of Ireland. Wales has been a part of the United Kingdom for centuries, with a devolved assembly and representatives in the Westminster Parliament. Their non-violent interactions with the English coupled with their Celtic identity are very intriguing.
 
-Finally, Cornwall is a county of England, occupying the southwestern portion of the English coast. A Cornish identity has taken root there, and there is a movement to create a Cornish Assembly like the one in Wales. However, these efforts are slow to progress against the bureaucracy of the United Kingdom. I interned at the USF Special Collections department and got to interact with some primary source material on the Cornish literary revival, and I was able to create a small database from that interaction. It does not give a complete picture of the Cornish language revival of the 20th century, but it does serve as an interesting glimpse into what could be very stimulating future research. 
+Finally, Cornwall is a county of England, occupying the southwestern portion of the English coast. A Cornish identity has taken root there, and there is a movement to create a Cornish Assembly like the one in Wales. However, these efforts are slow to progress against the bureaucracy of the United Kingdom. I interned at the USF Special Collections department and got to interact with some primary source material on the Cornish literary revival, and I was able to create a small database from that interaction. It does not give a complete picture of the Cornish language revival of the 20th century, but it does serve as an interesting glimpse into what could be very stimulating future research.
 
 ---
 
 ### What I am after
-* Utilizing census data, I want to get a picture of how many people have some knowledge of these three Celtic languages. 
+* Utilizing census data, I want to get a picture of how many people have some knowledge of these three Celtic languages.
 * Also, what kind of trends can be identified in their changes over time?
 * How prevalent are non-English British languages in the United Kingdom?
 * And finally, where do we see the most publications in the Cornish language revival?
@@ -40,7 +40,7 @@ Finally, Cornwall is a county of England, occupying the southwestern portion of 
 
 ### Methodology
 Finding the data: Censuses
-The United Kingdom and the Republic of Ireland perform censuses every ten years, and the Irish do another on the 6th year of every decade to commemorate the progress of the young nation since 1916. They both use services which host all the census data. There are two options for acquiring this data. The first is a bulk download; this method downloads a .csv file which can be several gigabytes worth of information. Further, this information is coded in a way that makes it difficult to read with the naked eye, and no program to accompany the data which could translate the codes into English. With that in mind, I acquired the data by the second route; the statistics websites allow the user to select data and build charts within the website and then export those data to a .csv file. As the census question change, it can take some interpretation to determine which census questions are polling for the same information. As such, census data from two distant years can be skewed by things like public education on the question, better phrasing, and more accurate digital recording. 
+The United Kingdom and the Republic of Ireland perform censuses every ten years, and the Irish do another on the 6th year of every decade to commemorate the progress of the young nation since 1916. They both use services which host all the census data. There are two options for acquiring this data. The first is a bulk download; this method downloads a .csv file which can be several gigabytes worth of information. Further, this information is coded in a way that makes it difficult to read with the naked eye, and no program to accompany the data which could translate the codes into English. With that in mind, I acquired the data by the second route; the statistics websites allow the user to select data and build charts within the website and then export those data to a .csv file. As the census question change, it can take some interpretation to determine which census questions are polling for the same information. As such, census data from two distant years can be skewed by things like public education on the question, better phrasing, and more accurate digital recording.
 
 ---
 
@@ -57,7 +57,7 @@ For Wales, I cared more about the proficiency of Welsh in the population. Again,
 The Republic of Ireland used a different service. Their service delivered the data in very simplistic terms and had to be organized a bit more efficiently into a compilation of data on one or two sheets. Their digitized census data was more widespread; I was able to acquire a population of speakers of Irish from 1861 to 1926. I used current census data from 2006 and 2011 to look at more recent trends.
 
 #### The Michael Krauss Collection
-I created an Excel document and began keying in publication information in a spreadsheet. After some patterns immerged, I was able to create drop down boxes and force a format on fields like year of publication. After collecting data on the books, which spanned all the Celtic languages and were in part written in English, I used OpenRefine to standardize spelling of author names and reorganize. I used the program to find everything Cornish in the collection, and I exported that out to a .csv. 
+I created an Excel document and began keying in publication information in a spreadsheet. After some patterns immerged, I was able to create drop down boxes and force a format on fields like year of publication. After collecting data on the books, which spanned all the Celtic languages and were in part written in English, I used OpenRefine to standardize spelling of author names and reorganize. I used the program to find everything Cornish in the collection, and I exported that out to a .csv.
 
 ---
 
@@ -105,7 +105,7 @@ Here we see a steady decline as birth rates struggle to keep pace with crippling
 
 ![Irish speakers by Age Group 2006-2011](https://www.dropbox.com/pri/get/Dillinger/_images/Irish%20Speakers%20by%20Age%20Group%20in%20the%202006%20and%202011%20Census.png?_subject_uid=283917548&w=AABfhDTW5QC1GIROTyYvxYzsrvGprSC0V8MJpd-CmWDbMA)
 
-Now to bring it into the modern term. In green are the numbers for 2006, ninety years after the Easter Uprising of 1916. Only five years later in 2011 (orange) we see a sharp increase in all but a certain age group: 15-34-year-old Irish people have not been visiting their grandmothers, it would seem. Or at least, they are insisting on English when they visit. It would be interesting to gain access to more information from the Republic of Ireland and see if this bubble exists in the 1990’s, and it will be interesting to see in twenty to thirty years if this trend holds. 
+Now to bring it into the modern term. In green are the numbers for 2006, ninety years after the Easter Uprising of 1916. Only five years later in 2011 (orange) we see a sharp increase in all but a certain age group: 15-34-year-old Irish people have not been visiting their grandmothers, it would seem. Or at least, they are insisting on English when they visit. It would be interesting to gain access to more information from the Republic of Ireland and see if this bubble exists in the 1990’s, and it will be interesting to see in twenty to thirty years if this trend holds.
 
 ---
 
@@ -113,12 +113,12 @@ Now to bring it into the modern term. In green are the numbers for 2006, ninety 
 
 ![Number of Works on Cornish Published by Year](https://www.dropbox.com/pri/get/Dillinger/_images/Number%20of%20Works%20on%20Cornish%20Published%20by%20Year%20in%20MK%20Collection.png?_subject_uid=283917548&w=AABr5M7vCK5vsEpY7zl4n7CSZ4cLziYCly4Cjmii9ZI_CQ)
 
-As for the Cornish dataset, I noticed a clear uptick in the 1970’s. This coincides with much of the efforts put forward by the Cornish people to see their ancient nation and language legitimized. It would certainly be interesting to utilize the rest of the collection to get an even better idea of the movement and identify more data points. With more data, the certainty with which we can infer trends increases, and as scholarship from this period is collected by archives as the scholars themselves retire, it would be immensely useful to see these kinds of collections digitized so we can ask bigger questions. 
+As for the Cornish dataset, I noticed a clear uptick in the 1970’s. This coincides with much of the efforts put forward by the Cornish people to see their ancient nation and language legitimized. It would certainly be interesting to utilize the rest of the collection to get an even better idea of the movement and identify more data points. With more data, the certainty with which we can infer trends increases, and as scholarship from this period is collected by archives as the scholars themselves retire, it would be immensely useful to see these kinds of collections digitized so we can ask bigger questions.
 
 ---
 
 ### Conclusion
-When conducting research, often every answer must be bought with one hundred more and new questions. This research proved no exception to that rule; where we saw a lack of urban engagement with Welsh language, could we demonstrate a disconnect with Welsh culture? Are the people of the mountains and coasts of Wales simply more *Welsh* than the city dwellers? Where we saw the Republic of Ireland bearing a language gap in the ‘millennial’ generation of people, could we infer a connection with digitization and globalization? On an internet that is largely monolingual, is it unsustainable to try and hold onto an old language like Irish, spoken by so few in the world? Will Celtic languages go the way of so many others and be casualties in the extinction-level disappearance of language in the world? And in the case of the Michael Krauss Collection on Cornish, how valuable can the digitization of these materials be? These questions are the best conclusion one could hope for; not an answer to end a project, but a prompt to begin many more. 
+When conducting research, often every answer must be bought with one hundred more and new questions. This research proved no exception to that rule; where we saw a lack of urban engagement with Welsh language, could we demonstrate a disconnect with Welsh culture? Are the people of the mountains and coasts of Wales simply more *Welsh* than the city dwellers? Where we saw the Republic of Ireland bearing a language gap in the ‘millennial’ generation of people, could we infer a connection with digitization and globalization? On an internet that is largely monolingual, is it unsustainable to try and hold onto an old language like Irish, spoken by so few in the world? Will Celtic languages go the way of so many others and be casualties in the extinction-level disappearance of language in the world? And in the case of the Michael Krauss Collection on Cornish, how valuable can the digitization of these materials be? These questions are the best conclusion one could hope for; not an answer to end a project, but a prompt to begin many more.
 
 ### Works Cited
 * [“The Irish language.pdf.” 2017. Accessed May 5.](http://www.cso.ie/en/media/csoie/releasespublications/documents/population/2017/7._The_Irish_language.pdf)
@@ -128,4 +128,3 @@ When conducting research, often every answer must be bought with one hundred mor
 * [“Percentage of Irish Speakers to Non-Irish Speakers between 1861 and 1926 by Province, CensusYear and Statistic - StatBank - Data and Statistics.” 2017. Accessed May 5.](http://www.cso.ie/px/pxeirestat/Statire/SelectVarVal/saveselections.asp)
 * [“QS204EW (Main Language (Detailed)) - Nomis - Official Labour Market Statistics.” 2017. Accessed May 5.](https://www.nomisweb.co.uk/census/2011/qs204ew)
 * [“QS207WA Welsh 2011 - Nomis - Official Labour Market Statistics.” 2017. Accessed May 5.](https://www.nomisweb.co.uk/census/2011/QS207WA/view/2092957700?rows=cell&cols=rural_urban)
-
