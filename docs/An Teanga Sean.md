@@ -1,6 +1,6 @@
 # An Teanga Sean: The Celtic Languages
 
-![alt text](images_for_projects/an_teanga_sean/celtic_flag.jpg)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/celtic_flag.jpg)
 
 In the study of European history, there are central and peripheral societies; the central societies lay claim to the Inheritance of Rome, or a progression of the flame of civilization from Cicero to the present day. The Celtic languages – Irish, Cornish, Welsh, Scots-Gaelic, Manx, and Breton – are languages of peripheral societies. These are not continental powerhouses like France or Germany, but small tribes of people on the British Isles. At least, that is the narrative told by the central societies, like the United Kingdom and France. Their legacy is one of oppression; whether it was Romans in antiquity, Vikings in the medieval period, or Norman Englishmen, the peoples of the Celtic languages have been oppressed and assaulted by foes for centuries.
 
