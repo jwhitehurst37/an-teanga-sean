@@ -1,6 +1,6 @@
 # An Teanga Sean: The Celtic Languages
 
-![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/celtic_flag.jpg)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/celtic_flag.jpg "A map representing the six Celtic Languages")
 
 In the study of European history, there are central and peripheral societies; the central societies lay claim to the Inheritance of Rome, or a progression of the flame of civilization from Cicero to the present day. The Celtic languages – Irish, Cornish, Welsh, Scots-Gaelic, Manx, and Breton – are languages of peripheral societies. These are not continental powerhouses like France or Germany, but small tribes of people on the British Isles. At least, that is the narrative told by the central societies, like the United Kingdom and France. Their legacy is one of oppression; whether it was Romans in antiquity, Vikings in the medieval period, or Norman Englishmen, the peoples of the Celtic languages have been oppressed and assaulted by foes for centuries.
 
@@ -69,41 +69,41 @@ Since all my data were in formats I could understand but which Tableau could not
 ### Visualizations
 
 ##### Celtic Languages in the United Kingdom
-![Knowledge of Celtic Languages in England 2011](docs\imgs\included\Knowledge of Celtic Languages in England 2011.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/Knowledge%20of%20Celtic%20Languages%20in%20England%202011.png)
 Here only England is seen, and the numbers of people in each category of Celtic language numbers less than 10,000, some dramatically so. I would appear clearly here that Welsh is the predominant language aside from English in England, trailed by Irish, and then Cornish. It should be noted that due to the questionnaire, the Gaelic which is not otherwise specified may include people confused as to whether they speak Cornish, or Scots-Gaelic, or Irish, or even Breton. This is unclear, and a consequence of working with self-reported data.
 
 ---
 
 #### Knowledge of Welsh in Wales
 
-![Some Welsh vs No Welsh 2001](docs\imgs\included\welsh_pie_2001.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/welsh_pie_2001.png)
 
-![Some Welsh vs No Welsh 2011](docs\imgs\included\welsh_pie_2011.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/welsh_pie_2011.png)
 
 Here are two pie charts which compare the proportion of people who have some skill in Welsh with the people in Wales who lack any skill. It is worth noting that this particular pie chart style allows us to see the nearly 25% portion of the total population which speaks, reads, or writes Welsh (or any combination thereof).
 
-![Prevalence 2001](docs\imgs\included\Prevalence of Welsh 2001.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/Prevalence%20of%20Welsh%202001.png)
 
 This chart explains basically the same information as the pies above, but it provides an opportunity to introduce the next graph. In 2001, the UK did not factor the concentration of Welsh between urban and rural settings. In 2011, we see more clearly the spread.
 
-![Prevalence with Attention to Urban vs Rural Populations 2011](docs\imgs\included\Prevalence of Welsh Urban and Rural 2011.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/Prevalence%20of%20Welsh%20Urban%20and%20Rural%202011.png)
 
 In the left grouping of bars, the population without any skill in Welsh is displayed. Note that urban Welsh people dominate this scale; now compare it to the ones who have some skill in Welsh. There are nearly as many people skilled in Welsh as there are country folks who have no skill in Welsh. It would seem from this graph that urbanization may play a role in Anglicizing Welsh tongues.
 
 ---
 
 #### Irish in Ireland
-![Decline in Irish Speakers 1861-1926](docs\imgs\included\ireland_speakdecline_1861.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/ireland_speakdecline_1861.png)
 
 In the period from 1861-1926, Ireland saw a surge of nationalism and the proliferation of Irish as a national tongue. However, the view from this graph does not seem to confirm this view. Let’s put it in context with a look at the overall population.
 
-![Population Decline 1861-1926](docs\imgs\included\Population Decline 1861 to 1926.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/Population%20Decline%201861%20to%201926.png)
 
 Here we see a steady decline as birth rates struggle to keep pace with crippling poverty and emigration to other nations. As seen below, the percentage of Irish speakers with relation to this overall decline remains relatively constant.
 
-![Percentage of Speakers](docs\imgs\included\Irish Speakers as a Percentage 1861-1926.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/Irish%20Speakers%20as%20a%20Percentage%201861-1926.png)
 
-![Irish speakers by Age Group 2006-2011](docs\imgs\included\Irish Speakers by Age Group in the 2006 and 2011 Census.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/Irish%20Speakers%20by%20Age%20Group%20in%20the%202006%20and%202011%20Census.png)
 
 Now to bring it into the modern term. In green are the numbers for 2006, ninety years after the Easter Uprising of 1916. Only five years later in 2011 (orange) we see a sharp increase in all but a certain age group: 15-34-year-old Irish people have not been visiting their grandmothers, it would seem. Or at least, they are insisting on English when they visit. It would be interesting to gain access to more information from the Republic of Ireland and see if this bubble exists in the 1990’s, and it will be interesting to see in twenty to thirty years if this trend holds.
 
@@ -111,7 +111,7 @@ Now to bring it into the modern term. In green are the numbers for 2006, ninety 
 
 #### The Michael Krauss Collection and The Cornish Language Revival
 
-![Number of Works on Cornish Published by Year](docs\imgs\included\Number of Works on Cornish Published by Year in MK Collection.png)
+![alt text](https://github.com/jwhitehurst37/images_for_projects/blob/master/an_teanga_sean/Number%20of%20Works%20on%20Cornish%20Published%20by%20Year%20in%20MK%20Collection.png)
 
 As for the Cornish dataset, I noticed a clear uptick in the 1970’s. This coincides with much of the efforts put forward by the Cornish people to see their ancient nation and language legitimized. It would certainly be interesting to utilize the rest of the collection to get an even better idea of the movement and identify more data points. With more data, the certainty with which we can infer trends increases, and as scholarship from this period is collected by archives as the scholars themselves retire, it would be immensely useful to see these kinds of collections digitized so we can ask bigger questions.
 
