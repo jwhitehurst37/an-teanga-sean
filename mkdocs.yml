@@ -1,10 +1,14 @@
-site_name: HIS4936 Final Project Starter
+site_name: An Teanga Sean, Celtic Languages
 theme_dir: theme
 theme: null
-copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
-repo_url: https://github.com/thePortus/his4936-starter
+copyright: 'Copyright &copy; 2017 <a href="mailto:jwhitehurst@mail.usf.edu">Joshua Whitehurst</a>'
+repo_url: https://github.com/jwhitehurst37/an-teanga-sean
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
-- Some Page: 'some_page.md'
+- Research Focus: 'research.md'
+- Methodology: 'methodology.md'
+- Data: 'data.md'
+- Visual Analysis: 'visualizations.md'
+- Conclusion & Works Cited: 'conclusion.md'
 - Credits: 'credits.md'
